@@ -1,4 +1,7 @@
 import webrowser, time
+
+import requests
+
 url = input("https://www.youtube.com/watch?v=0go-z8wqtDg")
 Duration = input(5)
 
