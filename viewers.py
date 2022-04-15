@@ -34,4 +34,4 @@ for i in range(5):
     upload_video(video_data)
 
     # Sleep until ready to post another video!
-
+    time.sleep(60 * 60 * 24 - 1)
