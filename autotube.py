@@ -5,6 +5,15 @@ Quick notes!
 - You can change the size of the video currently it's set to post shorts.
     * Do this by adding a parameter of scale to the image_save function.
     * scale=(width,height)
+    categories to add: 
+    sleeping music
+    studying music
+    trending hits
+    look for google or youtube trends
+    post internationally - think about other cultures
+    soccer videos
+    fighting videos
+    cops videos
 """
 
 from datetime import date
